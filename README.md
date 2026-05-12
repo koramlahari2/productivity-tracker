@@ -31,6 +31,7 @@ Track study hours, coding practice, phone usage, breaks, and sleep — and see y
 
 ### 1. Clone the repository
 git clone https://github.com/koramlahari2/productivity-tracker.git
+
 cd productivity-tracker
 ### 2. Install dependenices
 pip install -r requirements.txt
