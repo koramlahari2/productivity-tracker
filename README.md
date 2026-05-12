@@ -30,15 +30,9 @@ Track study hours, coding practice, phone usage, breaks, and sleep — and see y
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/koramlahari2/productivity-tracker.git
 cd productivity-tracker
 ### 2. Install dependenices
-'''bash
 pip install -r requirements.txt
 ### 3. Run the APP
-'''bash
 streamlit run tracker.py
-
-git clone https://github.com/yourusername/productivity-tracker.git
-cd productivity-tracker
